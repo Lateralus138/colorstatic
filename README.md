@@ -27,6 +27,19 @@ Random color animations by character frames for fun in the command line&#46;
 
 ---
 
+## Coming Soon
+
+***NOTE***: This has been re-written in ***`C++`*** and will (possibly) be cross-platform for *Linux*, *Windows*, and *MacOS*, but coming to *Linux* first.
+
+![Under Construction](https://img.shields.io/static/v1?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAACmElEQVQokUWSa0iTcRTGn//26u4b6ZQ0U8lKMqykwPpgZVBEHyLp8jEoIZJADCQ0iCiStIwuZmHRioIuroQss2VkrkIrdeFckiZqdhctTXPOve8Tr7M6X8/zO+fwPEfIwy7IwQA0GgExGYQwyhCmMLRX1z2hJCJSN+xZgqAZnPgCaAUQ0EHICjSYLlKBCDdNQb7HLmeRoy3zQFnzYk/1WTckGUIXCVD+Kw+BpAxtuBXCpkN7bdXt/JL3W3J3xuHg3iTsL/NkNFWVPoWkQOj/wxooCrRhFgiTjI4n9ZVHHQObjxVEY8UGIi1zEhVFCahwdq5qvn+hHkKC0EcBigxwvAnkW3ge7L6TMi+VztOLOOKOY8ulKL68GM2emnjeLF3AZSlz2FCZ6yaHwLGv6pkv8MyxsUoHLcsLwBuHwE0rtdy2UuLWNTpmpkkszQEfnAPDAd47tbaB7NaJR+eXujfmtGTUXgFWp5uwPd8Oi1GBJEmwWYlP34L4PSFw7chPeD+MYnkWUVmy0CeNfe5N8ANIjNWpNmHzqklYrDIGRwRm2gXsM/xofRMOf1AgcbYOAfgxMvgxCmS9+dbh5A6VarxuIMdBDoJ0g+vSreytNpAEux7qqWrK82I+kC2xYOAzyFbz5QNJPrXhdRo4XK/n3WILkxPsbKqwsr8xBB3PjukhGyJJv+qqB+QvkN0mR2Fim5pU1hobzxTYOPbcyJoTNpoAlu6wdZKvIslR0O9VXe0Clc5p2Ge4WDh36ux3ThM/1RqnNhXvilU32cjvINtAf4cKdkzlSHpBTqgNY11JfLtFA+o14NU8Wx/piggNfg2yGVR8EF9/dP37PyCIoDQLs8z9hmv71nsC4wFz9klX2tD4/AEG+gBoQ7KghD8MZ2xdnt7s7wAAAABJRU5ErkJggg==&label=Under&message=Construction&style=for-the-badge&color=b91d47&labelColor=1d1d1d)
+
+<details>
+  <summary>Current project status&#46;</summary>
+  <p>This project is currently under construction and any files found here are unofficial and temporary&#46;&#46;&#46;<br>Having said that, the current build is as stable as I can tell and will be a <i>Release</i> build as soon as I finish this <a href="./README.md">README.md</a></p>
+</details>
+
+---
+
 ## About
 
 ### Description and information
@@ -132,7 +145,7 @@ This is a command line tool for use in command lines in ***Linux*** for now&#44;
 
 ### Install or portable
 
-This can be installed to `/usr/bin` with the `.deb` ***Debian*** package installer that also provides *Bash Completetion* for options&#47;switches and some hi&#45;color icons if for if you want to create a *.desktop* shorctcut file&#46; I have also provided a portable executable pre&#45;compiled binary that you can place and run from anywhere you like&#46; You can also compile and install from the source folder &#40;linux&#41; with the provided ***make*** file with a very simple make command&#58; `make && sudo make install && sudo make clean` to build&#44; install&#44; and clean up the source folder.
+This can be installed to `/usr/bin` with the `.deb` ***Debian*** package installer that also provides *Bash Completetion* for options&#47;switches and some hi&#45;color icons if for if you want to create a *.desktop* shortcut file&#46; I have also provided a portable executable pre&#45;compiled binary that you can place and run from anywhere you like&#46; You can also compile and install from the source folder &#40;linux&#41; with the provided ***make*** file with a very simple make command&#58; `make && sudo make install && sudo make clean` to build&#44; install&#44; and clean up the source folder.
 
 ### Files
 
@@ -281,6 +294,6 @@ Some of these are for the Bash version, but it's essentially the same thing just
   </blockquote>
 </details>
 <br>
-If you like this project and care to donate to my PayPal:
+<!-- If you like this project and care to donate to my PayPal: -->
 
-[![PayPal Donation](docs/media/images/paypal_donate_button.png)](https://paypal.me/ianapride?locale.x=en_US)
+<!--[![PayPal Donation](docs/media/images/paypal_donate_button.png)](https://paypal.me/ianapride?locale.x=en_US) -->
