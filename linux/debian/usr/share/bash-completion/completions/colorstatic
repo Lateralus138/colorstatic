@@ -1,0 +1,10 @@
+colorstatic_list=(
+  -h --help
+  -d --delay
+  -c --columns
+  -l --lines
+  -f --frames
+  -m --mono
+)
+complete -W "$(printf '%s\n' "${colorstatic_list[@]}")" colorstatic
+

@@ -1,0 +1,11 @@
+Package: colorstatic
+Version: 1.0.0
+Section: Utilities
+Priority: optional
+Architecture: amd64
+Essential: no
+Installed-Size: 160
+Maintainer: Ian Pride <faithnomoread@yahoo.com>
+Description: Random color animations by character frames for fun in the command line.
+ The default, especially at a low font size looks like old television static.
+ Many options and cool things you can do. 
