@@ -4,7 +4,7 @@ Random color animations by character frames for fun in the command line&#46;
 
 [<img src="docs/media/misc/colorstatic.png" alt="ColorStatic Logo" width="192">](docs/media/misc/colorstatic.png)
 
-- [Color Static (C++ Edition)](#color-static-c-edition)
+- [Color Static (C++ Edition)](#color-static-c-edition) 
   - [About](#about)
     - [Description and information](#description-and-information)
     - [Motivation](#motivation)
