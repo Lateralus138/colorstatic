@@ -126,6 +126,8 @@ Current Debian MD5
 
 ### Code Quality
 
+This is to help guide me as a spend time re&#45;factoring &#40;then finally re&#45;writing&#41; this&#46; An *A* is great&#44; but I&#39;d much prefer an *A++* &#40;pun intended&#41;&#46;
+
 |Name|Code Quality|
 |:---:|:---:|
 |colorstatic @ CodeFactor.io|![colorstatic Code](https://img.shields.io/codefactor/grade/github/Lateralus138/colorstatic/master?style=for-the-badge)|
