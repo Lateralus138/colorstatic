@@ -76,7 +76,7 @@ Screens of basic demo
 
 ### Motivation
 
-Some time ago &#40;more than a few handfuls of years&#63;&#41; I ran across this `static` style loop example in a script and the another generic `matrix` &#40;with a little '`m`'&#41; style script and I have since been fascinated with fun, quirky, and geeky things in the command line; no matter how redundant and time wasting&#46; 
+Some time ago &#40;more than a few handfuls of years&#63;&#41; I ran across this `tv static` style loop example in a script and another generic `matrix` &#40;with a little '`m`'&#41; style script and I have since been fascinated with fun, quirky, and geeky things in the command line; no matter how redundant and time wasting&#46; 
 
 This was inspired by my [Bash script version](https://github.com/Lateralus138/colorstatic-bash) as I wanted to make it faster and more cross&#45;platform &#40;only cross terminal for now&#41; and so I thought I'd write it in *C&#43;&#43;*&#46;
 
