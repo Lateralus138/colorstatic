@@ -24,6 +24,7 @@ Random color animations by character frames for fun in the command line&#46;
 
 <a href="https://twitter.com/intent/tweet?url=https://github.com/Lateralus138/colorstatic%0D%0A&text=%27ColorStatic%27+-+Fun+way+to+generate+random+colorful+%22Static%22+style+animations+in+a+%23Linux+command+line+via+%40thefluxapex%0D%0A%0A&name=medium&hashtags=programming,coding,fun,commandline" target="_blank">![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.github.com%2FLateralus138%2Fcolorstatic&label=Tweet%20This%20Project)</a>
 
+<!--
 ---
 
 ## Coming Soon
@@ -36,6 +37,7 @@ Random color animations by character frames for fun in the command line&#46;
   <summary>Current project status&#46;</summary>
   <p>This project is currently under construction and any files found here are unofficial and temporary&#46;&#46;&#46;<br>Having said that, the current build is as stable as I can tell and will be a <i>Release</i> build as soon as I finish this <a href="./README.md">README.md</a></p>
 </details>
+-->
 
 ---
 
