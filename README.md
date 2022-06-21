@@ -300,6 +300,8 @@ Some of these are for the Bash version, but it's essentially the same thing just
 
 ---
 
+## Support Me If You Like
+
 If you like this project and care to donate to my ***PayPal***:
 
 [![PayPal Donation](docs/media/images/paypal_donate_button.png)](https://paypal.me/ianapride?locale.x=en_US)
